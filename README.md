@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**bremanour/bremanour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 👋 Hey there, I'm Ahmed Noureldin!
 I'm a Computer Scientist and AI Enthusiast, always eager to learn and grow. Passionate about Big Data, Machine Learning, and AI-driven automation.
 
